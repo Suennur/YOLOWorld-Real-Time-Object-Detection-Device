@@ -1,0 +1,8 @@
+tkinter
+PIL
+picamera2
+cv2
+numpy
+threading
+ultralytics
+time
