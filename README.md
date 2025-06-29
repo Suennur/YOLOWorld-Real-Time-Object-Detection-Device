@@ -37,6 +37,23 @@ This project implements a **real-time object detection system on a Raspberry Pi 
 
 ---
 
+## ⚙️ Installation and Setup
+
+1. **Clone this repository on your Raspberry Pi:**
+```bash
+git clone https://github.com/yourusername/YOLOWorld-Real-Time-Object-Detection-Device.git
+cd YOLOWorld-Real-Time-Object-Detection-Device
+```
+2 . **Install dependencies:**
+```bash
+pip install -r requirements.txt
+```
+3. **Run the application:**
+```bash
+python app.py
+```
+---
+
 ## 📸 How It Works
 The user enters a custom text prompt through the Tkinter GUI.
 
